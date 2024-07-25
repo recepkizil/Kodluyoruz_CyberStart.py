@@ -1,3 +1,4 @@
+![Ekran görüntüsü 2024-07-25 214449](https://github.com/user-attachments/assets/6b5f737d-b612-4558-8ec1-c5c1d7a512c4)
 IBM ile Kodluyoruz: CyberStart 3.Grup
 
 Resimdeki formül:
